@@ -1,6 +1,6 @@
-# Padding-Types
-implement three padding types:
-1- zero padding
-2- replicate padding
-3- mirror padding
+# Padding-Types<br/>
+implement three padding types:<br/>
+1- zero padding<br/>
+2- replicate padding<br/>
+3- mirror padding<br/>
 https://youtu.be/h0c0Tt9wsLg
